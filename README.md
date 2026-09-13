@@ -1,15 +1,11 @@
-# VIMAK Montagem Inteligente
+# VIMAK Montagem Inteligente V4.2
 
-Versão 4.1 — projeto piloto 67-Cozinhas.
+- 53 peças com QR direto
+- imagens técnicas e etiquetas embutidas
+- prancha real do Promob embutida
+- MOD A/B/C/D destacados na vista frontal
+- botão "Ver módulo completo" lista todas as peças daquele módulo
+- correção adicional do enquadramento do desenho técnico
 
-## Publicação
-Os arquivos `index.html`, `netlify.toml` e `manifest.webmanifest` ficam na RAIZ do repositório.
-
-O `index.html` desta versão é autônomo: as 53 imagens técnicas, etiquetas e QR Codes estão embutidos no próprio arquivo.
-Isso elimina o problema de imagens quebradas por falta da pasta `assets`.
-
-Domínio de produção usado nos QR Codes:
+Domínio de produção:
 https://vimakmontagem1.netlify.app/
-
-Exemplo:
-https://vimakmontagem1.netlify.app/?piece=P001
