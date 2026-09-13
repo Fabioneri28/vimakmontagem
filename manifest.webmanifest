@@ -1,8 +1,8 @@
 {
-  "name": "VIMAK Montagem Inteligente V4",
+  "name": "VIMAK Montagem Inteligente V4.1",
   "short_name": "VIMAK Montagem",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f5f2eb",
+  "background_color": "#f5f3ee",
   "theme_color": "#111111"
 }
